@@ -23,6 +23,15 @@
 // console.log(teacher.name);
 // Task1
 
+// function Multiply () {
+//   var total=1;
+//   for (var i = 10; i <= 15 || i > 10; i++) {
+//     total *= i
+//   }
+//   console.log(total);
+ 
+// }
+
 // Task2
 // function multiplyBy()
 // {
