@@ -22,15 +22,12 @@
 // teacher.name="Sevinc"
 // console.log(teacher.name);
 // Task1
-
-// function Multiply () {
-//   var total=1;
-//   for (var i = 10; i <= 15 || i > 10; i++) {
-//     total *= i
-//   }
-//   console.log(total);
- 
+//  let total=1;
+//  for (let i = 10; i <= 15 && i > 10; i++)
+//   {
+//   total=total*i
 // }
+// console.log(total);
 
 // Task2
 // function multiplyBy()
